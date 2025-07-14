@@ -1,0 +1,63 @@
+👤 Reddit User Persona: u/kojied
+
+---
+
+🔹 Interests:
+- "Mechanical Keyboards" – Avid collector, especially custom builds (e.g., GMMK Pro)  
+  → [Comment #1]
+- "Cyberpunk Games & Anime "– Enjoys deep storytelling and immersive narratives  
+  → [#2, #14]
+- "Tech & Self-Hosting" – Runs a Proxmox + Docker home lab, interested in NAS and Linux  
+  → [#3, #4, #8, #19]
+- "Digital Tools" – Uses Python for automation, experiments with ChatGPT for blogging  
+  → [#9, #16]
+- "Pixel Art Games" – Enjoys aesthetic, retro-style indies  
+  → [#11]
+- "Productivity & Minimalism" – Uses lightweight Linux setups like i3wm  
+  → [#19]
+
+---
+
+🔹 Personality Traits:
+- "Analytical & Curious" – Enjoys exploring complex tools, experimenting with tech  
+  → [#3, #9]
+- "Introverted but Self-aware" – Values solitude, practices self-care and reflection  
+  → [#6, #13]
+- "Tech-savvy" – Deep familiarity with Linux, scripting, and hardware  
+  → [#4, #8, #9]
+- "Community-oriented "– Active in niche subreddits, values Reddit over chaotic platforms  
+  → [#18, #20]
+
+---
+
+🔹 Lifestyle:
+- "DIY Enthusiast" – Builds setups, custom keyboards, and home server projects  
+  → [#1, #3]
+- "Minimal Ad Tolerance" – Prefers paid subscriptions to avoid ads (e.g., Spotify)  
+  → [#12]
+- "Data Cautious" – Strong advocate for backups and digital hygiene  
+  → [#17]
+
+---
+
+🔹 Opinions & Beliefs:
+-" Reddit > Other Platforms" – Views Reddit as a space for thoughtful discussion  
+  → [#5, #20]
+-" Coding isn't for Everyone" – Promotes digital literacy over mandatory coding  
+  → [#15]
+- "Skeptical of Low-quality eCommerce" – Avoids platforms like AliExpress for niche products  
+  → [#10]
+
+---
+
+🔹 Emotional Cues:
+-" Struggles with Anxiety "– Practices meditation and journaling  
+  → [#6]
+- "Seeks Meaningful Media" – Responds emotionally to stories like Cyberpunk: Edgerunners  
+  → [#14]
+
+---
+
+✅ Generated with 20 Reddit posts/comments.
+🧠 AI used: GPT-3.5
+🗂 Cited via comment/post indices (e.g., #2 = second comment in dataset)

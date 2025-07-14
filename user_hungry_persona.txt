@@ -1,0 +1,61 @@
+👤 Reddit User Persona: u/Hungry-Move-6603
+
+---
+
+🔹 Background & Career:
+- "Mechanical Engineer" turned Data Scientist** – Transitioned from AutoCAD to TensorFlow  
+  → [#2, #18, #20]
+- "Actively Learning" – Studies ML concepts through Kaggle, side projects, and online forums  
+  → [#3, #11, #17]
+
+---
+
+🔹 Skills & Tools:
+- "Python Developer" – Uses Python for ML, automation, and small web apps  
+  → [#8, #9]
+- "Productivity Enthusiast" – Leverages tools like Notion, Obsidian, Pomodoro timers, and dashboards  
+  → [#4, #7, #13, #14]
+- "Flask + Bootstrap" – Built a personal productivity dashboard using these  
+  → [#8]
+
+---
+
+🔹 Personality Traits:
+- "Introspective & Motivated" – Self-reflects via journaling, goal-setting, and productivity habits  
+  → [#7, #13]
+- "Minimalist" – Appreciates clean, simple designs in both digital and physical space  
+  → [#15]
+- "Empathetic & Non-judgmental" – Vegetarian by choice, but not forceful  
+  → [#6]
+
+---
+
+🔹 Opinions & Beliefs:
+- "Mental Health Awareness Advocate" – Open about imposter syndrome and focus issues  
+  → [#5, #11, #19]
+- "Remote Work Critic" – Finds WFH a bit isolating, struggles with distractions  
+  → [#1, #5]
+- "Community Over Content" – Prefers Reddit over YouTube for learning  
+  → [#17]
+
+---
+
+🔹 Work Style:
+- "Side Project Driven" – Finds value in building things that matter  
+  → [#10, #12]
+- "Uses AI Tools Smartly" – Leverages ChatGPT for resumes and writing support  
+  → [#16]
+
+---
+
+🔹 Emotional Themes:
+- "Motivated but Anxious" – Shows drive for growth but also self-doubt  
+  → [#11, #5]
+- "Still Adjusting Career Identity"– Misses old work but is excited by new field  
+  → [#20]
+
+---
+
+✅ Generated with 20 Reddit posts/comments.
+🧠 AI used: GPT-3.5
+🗂 Cited via comment/post indices (e.g., #3 = third comment in dataset)
